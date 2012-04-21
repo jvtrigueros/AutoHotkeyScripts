@@ -12,3 +12,9 @@ RAlt & F11::SendInput {Media_Play_Pause}
 
 ; Maps Ralt+F12 to Next Track
 RAlt & F12::SendInput {Media_Next}
+
+; Maps Ralt+Up for Volume Up
+RAlt & Up::SendInput {Volume_Up}
+
+; Maps Ralt+Down for Volume Down
+RAlt & Down::SendInput {Volume_Down}
